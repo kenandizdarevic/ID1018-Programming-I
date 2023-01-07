@@ -1,4 +1,4 @@
-# ID1018 Programmering 1
+# ID1018 Programming 1
 
 After passing the course, the students should be able to:
 
