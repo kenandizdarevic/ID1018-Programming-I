@@ -1,4 +1,5 @@
 # ID1018 Programming 1
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 After passing the course, the students should be able to:
 
